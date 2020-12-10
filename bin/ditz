@@ -20,7 +20,6 @@ begin
   # list version dependant gems here.
   gem 'kakutani-yaml_waml', '>= 0.3'
   gem 'optimist', '>= 1.9'
-  gem 'yaml_waml', '>= 0.3'
 rescue LoadError
 end
 
